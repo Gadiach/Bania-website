@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Результат</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="/css/styles.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="/css/headerStyleSheet.css">
+    <link rel="stylesheet" href="/css/footerStyle.css">
+</head>
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="/">На головну</a></li>
+            <li><a href="/html/Vetal.html">Віталій</a></li>
+            <li><a href="/html/Dimon.html">Дмитро</a></li>
+            <li><a href="/html/Borys.html">Борис</a></li>
+            <li><a href="/html/Bogdan.html">Богдан</a></li>
+            <li><a href="/html/Sania.html">Олександр</a></li>
+            <li><a href="/html/Misha.html">Михайло</a></li>
+        </ul>
+    </nav>
+</header>
+  
+<div class="center">
+  <h1 style="font-size:350%;">Вітаю, ви пройшли тестування на знання членів бані!</h1>
+   <p id="result"style="font-size:300%;">Ваш результат:</p>
+   <p id="summary"style="font-size:150%;">Ваші знання про членів бані відмінні!</p>
+</div>
+
+<footer>
+ <p style="text-align: center; margin-top: 560px;">Гадяч<br>2007</p>
+</footer>
+
+<script>
+
+        // Retrieve the counter value from localStorage
+        const correctClickCounter = localStorage.getItem('correctClickCounter');
+        // Display the result
+        document.getElementById('result').innerText = `Ваш результат: ${correctClickCounter}`;
+
+if(correctClickCounter < 18)
+{
+document.getElementById('summary').innerText = `Слабкі знання про членів бані. На перездачу!`;
+}
+
+
+</script>
+
+</body>
+</html>

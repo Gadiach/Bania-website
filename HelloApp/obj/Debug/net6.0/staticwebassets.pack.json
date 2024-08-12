@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\css\\downloadBtnStyle.css",
+      "PackagePath": "staticwebassets\\css\\downloadBtnStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\css\\footerStyle.css",
+      "PackagePath": "staticwebassets\\css\\footerStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\css\\headerStyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\headerStyleSheet.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\css\\registerStyles.css",
+      "PackagePath": "staticwebassets\\css\\registerStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\css\\testStyles.css",
+      "PackagePath": "staticwebassets\\css\\testStyles.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Bogdan.html",
+      "PackagePath": "staticwebassets\\html\\Bogdan.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Borys.html",
+      "PackagePath": "staticwebassets\\html\\Borys.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Dimon.html",
+      "PackagePath": "staticwebassets\\html\\Dimon.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Misha.html",
+      "PackagePath": "staticwebassets\\html\\Misha.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Results.html",
+      "PackagePath": "staticwebassets\\html\\Results.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Sania.html",
+      "PackagePath": "staticwebassets\\html\\Sania.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Tests.html",
+      "PackagePath": "staticwebassets\\html\\Tests.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\Vetal.html",
+      "PackagePath": "staticwebassets\\html\\Vetal.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\default.html",
+      "PackagePath": "staticwebassets\\html\\default.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\favicon.ico",
+      "PackagePath": "staticwebassets\\html\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\html\\registration.html",
+      "PackagePath": "staticwebassets\\html\\registration.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Bania – копія.png",
+      "PackagePath": "staticwebassets\\uploads\\Bania – копія.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Bania.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Bania.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Bogdan.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Bogdan.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Borys.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Borys.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Dimon.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Dimon.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Misha.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Misha.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Sania.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Sania.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\Vetal.jfif",
+      "PackagePath": "staticwebassets\\uploads\\Vetal.jfif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\bogdan.mp3",
+      "PackagePath": "staticwebassets\\uploads\\bogdan.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\bogdan2.mp3",
+      "PackagePath": "staticwebassets\\uploads\\bogdan2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\bogdan3.mp3",
+      "PackagePath": "staticwebassets\\uploads\\bogdan3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\borys.mp3",
+      "PackagePath": "staticwebassets\\uploads\\borys.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\borys2.mp3",
+      "PackagePath": "staticwebassets\\uploads\\borys2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\dimon.mp3",
+      "PackagePath": "staticwebassets\\uploads\\dimon.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\dimon2.mp3",
+      "PackagePath": "staticwebassets\\uploads\\dimon2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\dimon3.mp3",
+      "PackagePath": "staticwebassets\\uploads\\dimon3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\misha.mp3",
+      "PackagePath": "staticwebassets\\uploads\\misha.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\misha2.mp3",
+      "PackagePath": "staticwebassets\\uploads\\misha2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\mohovate.mp3",
+      "PackagePath": "staticwebassets\\uploads\\mohovate.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\sania.mp3",
+      "PackagePath": "staticwebassets\\uploads\\sania.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\sania2.mp3",
+      "PackagePath": "staticwebassets\\uploads\\sania2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\vetal.mp3",
+      "PackagePath": "staticwebassets\\uploads\\vetal.mp3"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\source\\repos\\HelloApp\\wwwroot\\uploads\\vetal2.mp3",
+      "PackagePath": "staticwebassets\\uploads\\vetal2.mp3"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HelloApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HelloApp.props",
+      "PackagePath": "build\\HelloApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HelloApp.props",
+      "PackagePath": "buildMultiTargeting\\HelloApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HelloApp.props",
+      "PackagePath": "buildTransitive\\HelloApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

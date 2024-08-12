@@ -1,0 +1,84 @@
+.tables-container2 img {
+            border: 4px solid transparent; /* Transparent border initially */
+            border-radius: 1px; /* Rounded corners */
+            margin: 0px; /* Padding between images */           
+        }
+.tables-container2 caption {
+    background-color: rgba(128, 128, 128, 0.3); 
+    border-radius: 20 px;
+    padding: 5px;
+}
+img.SaniaCorrect:hover, img.SaniaIncorrect:hover,
+img.BogdanCorrect:hover, img.BogdanIncorrect:hover,
+img.VetalCorrect:hover, img.VetalIncorrect:hover,
+img.BorysCorrect:hover, img.BorysIncorrect:hover,
+img.MishaCorrect:hover, img.MishaIncorrect:hover,
+img.DimonCorrect:hover, img.DimonIncorrect:hover{
+    border: 4px solid rgba(128, 128, 128, 0.3);
+    cursor: pointer;
+}
+.tables-container2 td {
+border: none;
+            width: 260px;
+            height: 300px;
+        }
+.tables-container2 {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+img.Green {
+    border: 4px solid green;
+}
+
+img.Red {
+    border: 4px solid red;    
+}
+td.Green {
+    background-color: green;
+}
+
+td.Red {
+    background-color: red;    
+}
+
+td.Inactive { }
+    
+
+.tables-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;    
+    margin: 20px auto; 
+}
+
+
+.tables-container table {    
+    margin: 0 10px; 
+}
+
+.tables-container caption {
+    background-color: rgba(128, 128, 128, 0.3); 
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.tables-container td {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 270px;
+}
+
+
+td.SaniaCorrect:hover, td.SaniaIncorrect:hover,
+td.BogdanCorrect:hover, td.BogdanIncorrect:hover,
+td.VetalCorrect:hover, td.VetalIncorrect:hover,
+td.BorysCorrect:hover, td.BorysIncorrect:hover,
+td.MishaCorrect:hover, td.MishaIncorrect:hover,
+td.DimonCorrect:hover, td.DimonIncorrect:hover{
+    background-color: rgba(128, 128, 128, 0.3);
+    cursor: pointer;
+}
+
+
+

@@ -1,0 +1,21 @@
+.audio-container {
+            display: flex;
+            align-items: center;
+            margin-left: 40px;
+        }
+
+.btn {
+  background-color: rgba(128, 128, 128, 0.1);
+  border: none;
+  border-radius: 20px;
+  color: black;
+  padding: 10px 10px;
+  cursor: pointer;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: rgba(128, 128, 128, 0.8);
+}

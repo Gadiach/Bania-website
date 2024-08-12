@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Борис</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="/css/headerStyleSheet.css">
+    <link rel="stylesheet" href="/css/footerStyle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/downloadBtnStyle.css">
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <ul>
+            <li><a href="/">На головну сторінку</a></li>
+        </ul>
+    </nav>
+</header>
+
+<div class="w3-container w3-white">
+  <div class="center">
+    <h1 style="text-align: center;">Борис Липівець</h1> 
+  </div>
+</div>
+
+<div class="w3-row-padding">
+  <div class="w3-third">
+    <h2 style="text-align: center;">Значення імені</h2>
+<iframe src="https://uk.wikipedia.org/wiki/%D0%91%D0%BE%D1%80%D0%B8%D1%81" name="iframe_a" height="605px" width="100%" title="Iframe Example"></iframe>
+  </div>
+
+  <div class="w3-third">
+    <div class="center">		
+      </br></br></br>	
+      <img src="/uploads/Borys.jfif" alt="Borys picture" style="width:600px;height:600px;">
+    </div>
+  </div>
+
+<div class="w3-third">
+    <h2 style="text-align: center;">Відомості про Бориса</h2>
+    <ul style="list-style-type:square;">
+      <li>Програміст</li>
+      <li>Пунктуальний</li>
+      <li>Ні хвилини не втрачає</li>
+    </ul>
+    <p style="text-align: center; font-weight: bold;">Найбільша мрія Бориса Липівця:</p>
+
+    <blockquote style="font-family: 'italic', Times, serif; font-style: italic; font-size: 18px;">
+"Моя мрія полягає в тому, щоб створити інноваційну академію, де програмування і альпінізм зливаються в одне ціле. Я хочу, щоб ця академія стала місцем, де люди зможуть не лише освоювати новітні технології, але й переживати захоплюючі гірські пригоди. Мені хочеться, щоб студенти могли отримувати знання в комфортному і сучасному середовищі, а також мали можливість відчути дух справжніх викликів і командної роботи в горах. Я вірю, що такий підхід допоможе людям стати кращими професіоналами і надихне їх на нові досягнення як у світі технологій, так і в особистому житті."
+    </blockquote>
+    
+    <p style="text-align: center; font-weight: bold;">Аудіозгадки про Бориса:</p>
+    
+    <div class="audio-container">
+        <audio controls>
+            <source src="/uploads/borys.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+            <button id="downloadButton1" class="btn"><i class="fa fa-download"></i> Download</button>
+    </div>
+
+    </br>
+    <div class="audio-container">
+        <audio controls>
+            <source src="/uploads/borys2.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+            <button id="downloadButton1" class="btn"><i class="fa fa-download"></i> Download</button>
+    </div>
+
+  </div>
+</div>
+    <article>
+</br>
+
+<h2 style="text-align: center;">Весела історія з життя Бориса</h2>
+
+<table style="width: 50%; margin: 0 auto;">
+  <tr>
+    <td>Одного разу Борис Липівець вирішив відзначити свій день народження у стильному гірському притулку, де його захоплення альпінізмом і програмуванням могли б зустрітися у чудовій атмосфері. Він приїхав на своєму улюбленому Renault Megane, повному технічних гаджетів та альпіністського спорядження.
+</br>
+Захоплений новою можливістю протестувати свою машину в умовах гірського серпантини, Борис вирішив, що це ідеальний час для випробування нової навігаційної системи, яку він сам розробив. Він ввів у систему координати місця, куди планував поїхати, і натиснув "Старт".
+</br>
+На жаль, через деякий збій у програмному забезпеченні, навігаційна система почала вести його не до гірського притулку, а до найближчого форуму по Renault Megane, де він щойно записався на зустріч фанатів цього авто. Борис не помітив, що координати були неправильно задані, і виявився на форумі, де його привітали як "головного доповідача з теми: 'Чому мій Megane кращий за всі інші машини'".
+</br>
+Коли Борис зрозумів свою помилку, це вже було надто пізно. Він вирішив скористатися ситуацією і розповів присутнім про свої улюблені гірські маршрути та як альпінізм допомагає йому в програмуванні. Гості були вражені його неймовірною здатністю переплести дві такі різні теми, і Борис отримав титул "Найбільш креативний доповідач" на форумі.
+</br>
+Ця ситуація підкреслює його пунктуальність, захоплення автомобілями і програмуванням, а також вміння перетворювати будь-які непередбачені обставини на можливість для нових вражень.
+    </td>       
+  </tr>
+</table>
+</br></br></br></br>
+
+<footer>
+ <p style="text-align: center;">Гадяч</br>2007</p>
+</footer>
+
+<script>
+  document.addEventListener('play', function(e){
+    var audios = document.getElementsByTagName('audio');
+
+    for(var i = 0, len = audios.length; i < len;i++){
+      if(audios[i] != e.target){
+        audios[i].pause();}}}, true);
+</script>
+	
+</body>
+</html>
